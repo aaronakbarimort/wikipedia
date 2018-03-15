@@ -17,3 +17,13 @@
 #title {
   text-align: center;
 }
+
+ul#inline-list {
+  list-style: none;
+
+}
+
+ul#inline-list li {
+  display: inline;
+  float: right;
+}
