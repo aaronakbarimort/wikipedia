@@ -20,7 +20,7 @@
 
 ul#inline-list {
   list-style: none;
-
+  padding-bottom: 30px;
 }
 
 ul#inline-list li {
