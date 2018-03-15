@@ -1,0 +1,19 @@
+.top-nav {
+
+}
+
+.sidebar {
+  height: 100vh;
+  /*width: 150px;*/
+  float: left;
+  background-color: grey;
+}
+
+.link {
+  float: right;
+  display: block;
+}
+
+#title {
+  text-align: center;
+}
